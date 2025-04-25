@@ -1,0 +1,11 @@
+/* _forms.scss:175 */
+
+  
+  /* _forms.scss:284 */
+  .form-group {
+    display: flex;
+    flex: 0 0 auto;
+    flex-flow: row wrap;
+    align-items: center;
+    margin-bottom: 0;
+  }

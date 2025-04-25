@@ -1,0 +1,6 @@
+input.form-control,
+textarea.form-control {
+    max-width: 400px !important;
+    width: 100% !important;
+    display: block;
+}
